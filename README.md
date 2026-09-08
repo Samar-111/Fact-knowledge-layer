@@ -65,7 +65,7 @@ The **Fact Knowledge Layer** is an end-to-end pipeline that:
 
 ## 🎥 Video Demo Link
 
-- **Demo Video (3 Minutes or less)**: [Watch Product Video Demo Here](https://youtu.be/your-demo-video-link-placeholder) *(Replace with actual video link prior to final submission)*
+- **Demo Video (3 Minutes or less)**: [Watch Product Video Demo Here](https://vimeo.com/1224891885?fl=ip&fe=ec) *(Replace with actual video link prior to final submission)*
 
 ---
 
